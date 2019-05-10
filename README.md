@@ -23,7 +23,7 @@ Phone: 4105551234
 Email: lisa.haung@foobartech.com
 ```
 
-####Assumptions and output behavior:
+### Assumptions and output behavior:
 * An empty line determines that the input process is complete.
 * The first valid 10 digit phone number is retrieved as the Phone Number.
 * The Name field is derived using pattern matching from the email address field.
