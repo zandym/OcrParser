@@ -23,7 +23,7 @@ Phone: 4105551234
 Email: lisa.haung@foobartech.com
 ```
 
-### Assumptions and output behavior:
+#####Assumptions and output behavior:
 * An empty line determines that the input process is complete.
 * The first valid 10 digit phone number is retrieved as the Phone Number.
 * The Name field is derived using pattern matching from the email address field.
@@ -68,18 +68,18 @@ Default locale: en_US, platform encoding: UTF-8
 OS name: "linux", version: "3.10.0-957.10.1.el7.x86_64", arch: "amd64", family: "unix"`
 ```
 
-## Steps:
+## Application Build Steps:
 
-Download source from repository:
+Clone repository:
 
 ```
-git clone...
+git clone https://github.com/zandym/OcrParser.git
 ```
 
 Go to the application directory:
 
 ```
-cd OrcParser
+cd OcrParser
 ```
 
 You should see the following in the current directory:
@@ -165,7 +165,7 @@ cd target
 ```
 
 
-Run the application
+Start the application
 
 ```
 java -classpath OcrParser-1.0.1-SNAPSHOT.jar com.ocr.Parser
