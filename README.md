@@ -214,4 +214,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Thanks to Assymetrik for inspiring me to upload my first Github project!
+* Thanks to Asymmetrik for inspiring me to upload my first Github project!
